@@ -10,7 +10,7 @@ Esse diretório é focado em entender como as coisas funcionam por baixo dos pan
 
 Atualmente, este arquivo guarda:
 
-*   📄 **[Mapa mental Cibersegurança](./Mapa%20mental%20Ciberseguranca.pdf)**: Mapa de estudos incluindo:
+*   📄 **[Mapa mental Cibersegurança](./Mapa%20mental%20Cibersegurança.pdf)**: Mapa de estudos incluindo:
     *   **Informações Gerais** e conceitos base[1]
     *   **Mapeamento de Rede:** Detalhando as fases de Pentest (Host Scan, Port Scan, Service Scan)[2]
     *   **Tipos de Ataques** e ameaças comuns[3]

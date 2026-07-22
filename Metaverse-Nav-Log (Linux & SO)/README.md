@@ -17,11 +17,8 @@ Atualmente, este arquivo guarda:
 ---
 
 ## 🎯 Radar de Estudos
-O que costumo mapear e registrar por aqui:
-- Comandos essenciais e atalhos de terminal.
-- Gerenciamento de usuários, grupos e permissões de arquivos (`chmod`, `chown`).
-- Estrutura de diretórios do Linux e navegação.
-- Scripts de automação básicos.
+O que vem em seguida
+- Não Sei
 
 ---
 *"Tenho certeza que ninguém lê isso, então vou dizer nada."*

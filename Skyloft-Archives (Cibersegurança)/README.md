@@ -21,7 +21,7 @@ Atualmente, este arquivo guarda:
 
 ---
 
-## 🎯 Radar
+## 🎯 Radar de Estudos
 O que vem em seguida
 - Não sei
 

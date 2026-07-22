@@ -1,4 +1,4 @@
-# 🎩 The Trickster Vault
+# 🃏 The Trickster Vault
 
 Bem-vindo ao meu repositório central. 
 
@@ -16,7 +16,7 @@ Arquivo dedicado a anotações de Cybersegurança, Pentest, Blue Team e Red Team
 *   **Laboratórios & Logs:** Relatórios práticos e Write-ups de máquinas e desafios.
 *   **Scripts:** Ferramentas de automação e *one-liners* que achei úteis.
 
-### 🃏 [Metaverse-Nav-Log (Linux & SO)]
+### 🛸 [Metaverse-Nav-Log (Linux & SO)]
 Tudo sobre administração de sistemas operacionais, hardening e linha de comando.
 *   Comandos e códigos básicos e avançados para utilizar no dia a dia.
 *   Gerenciamento de permissões e exploração de sistemas.

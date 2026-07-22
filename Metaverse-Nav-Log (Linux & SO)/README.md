@@ -6,7 +6,7 @@ Aqui é onde eu vou salvar documentos que podem ser úteis para uso do sistema n
 
 ---
 
-## 🗂️ Relíquias do Diretório
+## 🗂️ Tesouros do Diretório
 
 Atualmente, este arquivo guarda:
 

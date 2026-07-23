@@ -10,7 +10,7 @@ Aqui é onde eu vou salvar documentos que podem ser úteis para uso do sistema n
 
 Atualmente, essa é minhas pasta principal de estudos com o arquivo:
 
-*   📄 **[Mapa mental códigos Linux]([./Mapa%20mental%20códigos%20Linux.pdf])**: Um guia visual e dinâmico conectando comandos essenciais de Bash/Shell, listagem de diretórios, cópias e links diretamente com exemplos reais do terminal.
+*   📄 **[Mapa mental códigos Linux](./Mapa%20mental%20códigos%20Linux_4.pdf)**: Um guia visual e dinâmico conectando comandos essenciais de Bash/Shell, listagem de diretórios, cópias e links diretamente com exemplos reais do terminal.
 
 *(Novos mapas, relatórios e scripts serão adicionados em subpastas conforme a exploração continua...)*
 

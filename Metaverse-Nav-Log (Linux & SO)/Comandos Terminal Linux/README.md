@@ -25,7 +25,7 @@ Este diretório contém o **Mapa Mental** em desenvolvimento que criei durante m
 
  Abaixo está o arquivo de consulta rápida do módulo:
 
-📄 **Metaverse-Nav-Log (Linux & SO)/Comandos Terminal Linux/Mapa mental códigos Linux.pdf**
+📄 **[Download / Visualizar o Mapa Mental em PDF](./Mapa%20mental%20códigos%20Linux_4.pdf)**
 
 ---
 *Jacaré* 🧙‍♂️

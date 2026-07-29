@@ -25,7 +25,7 @@ Este diretório contém o **Mapa Mental** em desenvolvimento que criei durante m
 
  Abaixo está o arquivo de consulta rápida do módulo:
 
-📄 **[Download / Visualizar o Mapa Mental em PDF](./Comandos%20Terminal%20Linux/Mapa%20Mental%20Codigos%20Linux.pdf)**
+📄 **[Download / Visualizar o Mapa Mental em PDF](./Mapa%20Mental%20Codigos%20Linux.pdf)**
 
 ---
 *Jacaré* 🧙‍♂️

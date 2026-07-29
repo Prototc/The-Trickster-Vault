@@ -8,16 +8,11 @@ Aqui é onde organizo guias visuais e materiais de consulta rápida para o uso d
 
 ## 🗂️ Tesouros do Diretório
 
-Abaixo estão os módulos de estudos e mapas mentais disponíveis até o momento:
+Atualmente, os módulos de estudos e mapas mentais disponíveis são:
 
-### 🐧 1. Comandos Linux Bash Shell
-Guia visual completo conectando comandos essenciais do terminal, manipulação de arquivos, redes, metacaracteres e compactação (`tar`/`gzip`).
-* 📄 **[Mapa Mental - Códigos Linux (PDF)](<./Comandos Terminal Linux/Mapa Mental Codigos Linux.pdf>)**
-* 📁 **[Acessar Subdiretório](./Comandos%20Terminal%20Linux/)**
+📄 **[Mapa Mental - Códigos Linux (PDF)](<./Comandos Terminal Linux/Mapa Mental Codigos Linux.pdf>)**: Guia visual completo conectando comandos essenciais do terminal, manipulação de arquivos, redes, metacaracteres e compactação (`tar`/`gzip`).
 
-### 🐚 2. Shell Linux & Gerenciamento de Processos
-Mapeamento sobre o funcionamento do interpretador Bash, escopo de variáveis (locais vs. globais), arquivos de inicialização (`.bashrc`), atalhos (`alias`) e controle de processos/jobs (`bg`, `fg`, `kill %`).
-* 📄 **[Mapa Mental - Shell Linux (PDF)](<./Comandos Terminal Linux/Shell Linux.pdf>)**
+📄 **[Mapa Mental - Shell Linux (PDF)](<./SHELL/Shell Linux.pdf>)**: Mapeamento sobre o funcionamento do interpretador Bash, escopo de variáveis (locais vs. globais), arquivos de inicialização (`.bashrc`), atalhos (`alias`) e controle de processos/jobs (`bg`, `fg`, `kill %`).
 
 *(Novos mapas, relatórios e scripts serão adicionados em subpastas conforme a exploração continua...)*
 

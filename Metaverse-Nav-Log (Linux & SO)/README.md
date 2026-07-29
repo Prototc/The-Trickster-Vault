@@ -1,25 +1,35 @@
 # 🛸 Metaverse-Nav-Log (Linux & SO)
 
-Bem-vindo ao log de navegação do Metaverso. Este diretório é o núcleo das minhas anotações sobre **Linux, Administração de Sistemas e Qualquer ideia que eu tiver**.
+Bem-vindo ao log de navegação do Metaverso! Este diretório é o núcleo das minhas anotações, mapas mentais e documentações práticas sobre **Linux, Administração de Sistemas e Shell/Bash**.
 
-Aqui é onde eu vou salvar documentos que podem ser úteis para uso do sistema no dia a dia.
+Aqui é onde organizo guias visuais e materiais de consulta rápida para o uso do sistema no dia a dia.
 
 ---
 
 ## 🗂️ Tesouros do Diretório
 
-Atualmente, essa é minhas pasta principal de estudos com o arquivo:
+Abaixo estão os módulos de estudos e mapas mentais disponíveis até o momento:
 
-📄 **[Mapa mental códigos Linux (PDF)](<https://github.com/Prototc/The-Trickster-Vault/blob/main/Metaverse-Nav-Log%20(Linux%20%26%20SO)/Comandos%20Terminal%20Linux/Mapa%20Mental%20Codigos%20Linux.pdf>)**: Um guia visual e dinâmico conectando comandos essenciais de Bash/Shell, listagem de diretórios, cópias e links diretamente com exemplos reais do terminal.
+### 🐧 1. Comandos Linux Bash Shell
+Guia visual completo conectando comandos essenciais do terminal, manipulação de arquivos, redes, metacaracteres e compactação (`tar`/`gzip`).
+* 📄 **[Mapa Mental - Códigos Linux (PDF)](<./Comandos Terminal Linux/Mapa Mental Codigos Linux.pdf>)**
+* 📁 **[Acessar Subdiretório](./Comandos%20Terminal%20Linux/)**
 
+### 🐚 2. Shell Linux & Gerenciamento de Processos
+Mapeamento sobre o funcionamento do interpretador Bash, escopo de variáveis (locais vs. globais), arquivos de inicialização (`.bashrc`), atalhos (`alias`) e controle de processos/jobs (`bg`, `fg`, `kill %`).
+* 📄 **[Mapa Mental - Shell Linux (PDF)](<./Comandos Terminal Linux/Shell Linux.pdf>)**
 
 *(Novos mapas, relatórios e scripts serão adicionados em subpastas conforme a exploração continua...)*
 
 ---
 
 ## 🎯 Radar de Estudos
-O que vem em seguida
-- Não Sei
+
+* [x] Comandos essenciais de terminal, redes e compactação (`tar`/`gzip`)
+* [x] Variáveis de ambiente, arquivos de configuração do Bash e controle de Jobs
+* [ ] Permissões de arquivos (`chmod`, `chown`, modo octal)
+* [ ] Shell Scripting (Lógica de automação com Bash)
 
 ---
-*"Tenho certeza que ninguém lê isso, então vou dizer nada."*
+
+*"Tenho certeza que ninguém lê isso, então vou dizer nada. 🐊"*

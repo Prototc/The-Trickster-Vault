@@ -16,7 +16,7 @@ Arquivo dedicado a anotações de Cibersegurança, Pentest, Blue Team, Red Team 
 * **Laboratórios & Logs:** Relatórios práticos (*write-ups*) de salas do TryHackMe e máquinas.
 * **Scripts & Toolkit:** Ferramentas de automação e *one-liners* que facilitam o dia a dia.
 
-### 🛸 [Metaverse-Nav-Log (Linux & SO)](./Metaverse-Nav-Log)
+### 🛸 [Metaverse-Nav-Log (Linux & SO)](./Metaverse-Nav-Log%20(Linux%20%26%20SO))
 Diário de navegação focado em administração de sistemas Linux (ambiente de testes em Fedora VM), Shell/Bash e manipulação de SO.
 * **Comandos & Diagnóstico:** Guias de navegação, rede, filtros (`grep`/`find`), metacaracteres e compactação (`tar`/`gzip`).
 * **Shell & Gerenciamento de Processos:** Variáveis locais/globais, arquivos de configuração (`.bashrc`), `alias` e trio de controle (`Ctrl+Z`, `bg`, `fg`, `kill`).

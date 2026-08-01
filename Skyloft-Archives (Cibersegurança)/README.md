@@ -6,18 +6,49 @@ Esse diretório é focado em entender como as coisas funcionam por baixo dos pan
 
 ---
 
-## 🗂️ Relíquias do Diretório
+## 🗺️ 1. Mapa Mental de Cibersegurança (Teoria)
 
-Atualmente, este arquivo guarda:
+Guia visual cobrindo a base teórica de segurança da informação, redes e ameaças:
 
-* 🗺️ **[Mapa mental Cibersegurança](./Mapa%20mental%20Cibersegurança.pdf)**: Guia visual cobrindo:
-    * **Informações Gerais** e conceitos base
-    * **Mapeamento de Rede:** Detalhando as fases de Pentest (Host Scan, Port Scan, Service Scan)
-    * **Tipos de Ataques** e ameaças comuns
-    * **Malwares:** Tipos de infecção e precauções
-    * **Redes Sem Fio:** A evolução dos algoritmos de segurança de Wi-Fi
+* 📌 **Informações Gerais:** Conceitos base de confidencialidade, integridade e disponibilidade (Triângulo CID).
+* 🌐 **Mapeamento de Rede:** Fases detalhadas de Pentest (*Host Scan*, *Port Scan*, *Service Scan*).
+* ⚔️ **Tipos de Ataques:** Principais vetores de invasão e ameaças comuns.
+* 🦠 **Malwares:** Tipos de infecção, vetores de propagação e precauções.
+* 📡 **Redes Sem Fio:** A evolução dos algoritmos de segurança Wi-Fi (WEP, WPA, WPA2, WPA3).
 
-* 🗡️ **[TryHackMe Great Plateau | Skyloft Training Grounds](./TryHackMe-Great-Plateau)**: Relatórios práticos, *write-ups* e soluções das salas/desafios resolvidos no TryHackMe.
+📄 **[Download / Visualizar o Mapa Mental de Cibersegurança (PDF)](./Mapa%20mental%20Cibersegurança.pdf)**
+
+---
+
+## 🗡️ 2. TryHackMe Great Plateau | Skyloft Training Grounds
+
+> *"It's dangerous to go alone! Take this documentation."*
+
+Seção dedicada a registrar a jornada prática de cada módulo e sala do TryHackMe finalizados.
+
+### 🛡️ Módulo 01 | Start Your Cyber Security Journey
+
+> *"Every hero's adventure starts with a single step out of the shrine."* 🏹
+
+Módulo introdutório focado nos fundamentos da área, mentalidade hacker, diferença entre Segurança Ofensiva e Defensiva e pesquisa de ameaças (OSINT).
+
+#### 📜 Dungeons & Salas do Módulo
+
+| Sala / Room | Foco Principal | Status | Documentação |
+| :--- | :--- | :---: | :---: |
+| **Offensive Security Intro** | Reconhecimento Web (`dirb`), Enumeração & Controle de Acesso | 🟢 Concluído |
+| **Defensive Security Intro** | Triagem de SOC, Contenção de Brute Force & Relatório de Incidentes | 🟢 Concluído |
+| **Search Skills** | OSINT, Shodan, VirusTotal, Pesquisa de CVEs & PoCs no GitHub | 🟢 Concluído |
+[Acessar PDF](./TryHackMe-Great-Plateau/01-Start-Cyber-Security-Journey/3-Search-Skills.pdf)
+
+#### 🎯 Objetivos de Aprendizado
+
+- [x] Entender a diferença entre Red Team (Ataque) e Blue Team (Defesa)
+- [x] Executar o primeiro scan de rotas ocultas em aplicação web (`dirb`)
+- [x] Compreender os conceitos básicos de defesa, monitoramento e resposta a incidentes (SOC)
+- [x] Dominar ferramentas de busca, OSINT e inteligência de ameaças (Shodan, VirusTotal, CVEs)
+
+*Módulo 100% finalizado e arquivado! ⚔️*
 
 ---
 
@@ -31,4 +62,4 @@ O que está no horizonte da jornada:
 
 ---
 
-*"Eu acho que deveria parar de falar sozinho."*
+*"Eu acho que deveria parar de falar sozinho. 🐊"*

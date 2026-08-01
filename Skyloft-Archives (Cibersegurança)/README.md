@@ -34,13 +34,13 @@ Módulo introdutório focado nos fundamentos da área, mentalidade hacker, difer
 
 #### 📜 Dungeons & Salas do Módulo
 
+[Módulo 1 Acessar PDF](./TryHackMe-Great-Plateau/01-Start-Cyber-Security-Journey/3-Search-Skills.pdf)
+
 | Sala / Room | Foco Principal | Status |
 | :--- | :--- | :---: |
 | **Offensive Security Intro** | Reconhecimento Web (`dirb`), Enumeração & Controle de Acesso | 🟢 Concluído |
 | **Defensive Security Intro** | Triagem de SOC, Contenção de Brute Force & Relatório de Incidentes | 🟢 Concluído |
 | **Search Skills** | OSINT, Shodan, VirusTotal, Pesquisa de CVEs & PoCs no GitHub | 🟢 Concluído |
-
-[Acessar PDF](./TryHackMe-Great-Plateau/01-Start-Cyber-Security-Journey/3-Search-Skills.pdf)
 
 #### 🎯 Objetivos de Aprendizado
 

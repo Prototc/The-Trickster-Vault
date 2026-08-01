@@ -10,9 +10,9 @@ Aqui é onde organizo guias visuais e materiais de consulta rápida para o uso d
 
 Atualmente, os módulos de estudos e mapas mentais disponíveis são:
 
-📄 **[Mapa Mental - Códigos Linux (PDF)](<./Comandos Terminal Linux/Mapa Mental Codigos Linux.pdf>)**: Guia visual completo conectando comandos essenciais do terminal, manipulação de arquivos, redes, metacaracteres e compactação (`tar`/`gzip`).
+* 🐧 **[Comandos Terminal Linux](./Comandos%20Terminal%20Linux)**: Guia visual completo conectando comandos essenciais do terminal, manipulação de arquivos, redes, metacaracteres e compactação (`tar`/`gzip`).
 
-📄 **[Mapa Mental - Shell Linux (PDF)](<./SHELL/Shell Linux.pdf>)**: Mapeamento sobre o funcionamento do interpretador Bash, escopo de variáveis (locais vs. globais), arquivos de inicialização (`.bashrc`), atalhos (`alias`) e controle de processos/jobs (`bg`, `fg`, `kill %`).
+* 🐚 **[SHELL (Gerenciamento de Processos)](./SHELL)**: Mapeamento sobre o funcionamento do interpretador Bash, escopo de variáveis (locais vs. globais), arquivos de inicialização (`.bashrc`), atalhos (`alias`) e controle de processos/jobs (`bg`, `fg`, `kill %`).
 
 *(Novos mapas, relatórios e scripts serão adicionados em subpastas conforme a exploração continua...)*
 

@@ -1,4 +1,4 @@
-# 🗡️ TryHackMe Archives | Skyloft Training Grounds
+# 🗡️ TryHackMe Great Plateau | Skyloft Training Grounds
 
 > *"It's dangerous to go alone! Take this documentation."*
 
@@ -8,4 +8,4 @@ Aqui você encontrará relatórios detalhando cada sala e como fiz para concluir
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 📜
+## 📜 Todas as anotações de cada sala (assim como o mini mapa mental de cada uma) ficará em subpastas desse tema.

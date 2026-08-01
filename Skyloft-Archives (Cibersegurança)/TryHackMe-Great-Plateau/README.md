@@ -9,3 +9,6 @@ Aqui você encontrará relatórios detalhando cada sala e como fiz para concluir
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📜 Todas as anotações de cada sala (assim como o mini mapa mental de cada uma) ficará em subpastas desse tema.
+| Módulo | Descrição | Status | Anotações |
+| :--- | :--- | :---: | :---: |
+| 🛡️ **[01 - Start Cyber Security Journey](./01-Start-Cyber-Security-Journey)** | Fundamentos de Red Team, Blue Team, SOC e OSINT/Search Skills | 🟢 Concluído | [Ver Módulo](./01-Start-Cyber-Security-Journey) |

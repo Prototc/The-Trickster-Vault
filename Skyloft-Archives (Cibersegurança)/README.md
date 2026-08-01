@@ -10,20 +10,25 @@ Esse diretório é focado em entender como as coisas funcionam por baixo dos pan
 
 Atualmente, este arquivo guarda:
 
-*   📄 **[Mapa mental Cibersegurança](./Mapa%20mental%20Cibersegurança.pdf)**: Mapa de estudos incluindo:
-    *   **Informações Gerais** e conceitos base[1]
-    *   **Mapeamento de Rede:** Detalhando as fases de Pentest (Host Scan, Port Scan, Service Scan)[2]
-    *   **Tipos de Ataques** e ameaças comuns[3]
-    *   **Malwares:** Tipos de infecção e precauções[4]
-    *   **Redes Sem Fio:** A evolução dos algoritmos de segurança de Wi-Fi[5]
+* 🗺️ **[Mapa mental Cibersegurança](./Mapa%20mental%20Cibersegurança.pdf)**: Guia visual cobrindo:
+    * **Informações Gerais** e conceitos base
+    * **Mapeamento de Rede:** Detalhando as fases de Pentest (Host Scan, Port Scan, Service Scan)
+    * **Tipos de Ataques** e ameaças comuns
+    * **Malwares:** Tipos de infecção e precauções
+    * **Redes Sem Fio:** A evolução dos algoritmos de segurança de Wi-Fi
 
-*(Eventualmente ele vai ficar mais completo...)*
+* 🗡️ **[TryHackMe Great Plateau | Skyloft Training Grounds](./TryHackMe-Great-Plateau)**: Relatórios práticos, *write-ups* e soluções das salas/desafios resolvidos no TryHackMe.
 
 ---
 
 ## 🎯 Radar de Estudos
-O que vem em seguida
-- Não sei
+
+O que está no horizonte da jornada:
+
+- [x] Iniciar os treinamentos práticos no TryHackMe
+- [x] Criar estrutura de documentação com PoC / Prints no GitHub
+- [ ] Aprofundar em análise de logs e ferramentas de SOC (Blue Team)
 
 ---
+
 *"Eu acho que deveria parar de falar sozinho."*

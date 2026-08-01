@@ -34,7 +34,7 @@ Módulo introdutório focado nos fundamentos da área, mentalidade hacker, difer
 
 #### 📜 Dungeons & Salas do Módulo
 
-[Módulo 1 Acessar PDF](./TryHackMe-Great-Plateau/01-Start-Cyber-Security-Journey/3-Search-Skills.pdf)
+[Módulo 01 | Start Your Cyber Security Journey Acessar PDF](./TryHackMe-Great-Plateau/01-Start-Cyber-Security-Journey/3-Search-Skills.pdf)
 
 | Sala / Room | Foco Principal | Status |
 | :--- | :--- | :---: |

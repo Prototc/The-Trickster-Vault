@@ -11,7 +11,7 @@ A estrutura do diretório é dividida em "arquivos" temáticos, unindo a organiz
 ## 🗺️ Índice do Cofre
 
 ### 🛡️ [Skyloft-Archives (Cibersegurança)](./Skyloft-Archives%20(Cibersegurança))
-Arquivo dedicado a anotações de Cibersegurança, Pentest, Blue Team, Red Team e laboratórios práticos.
+Pasta dedicada a anotações de Cibersegurança, Pentest, Blue Team, Red Team e laboratórios práticos.
 * **Mapas Mentais:** Diagramas visuais de processos, arquitetura de rede e ameaças.
 * **Laboratórios & Logs:** Relatórios práticos (*write-ups*) de salas do TryHackMe e máquinas.
 * **Scripts & Toolkit:** Ferramentas de automação e *one-liners* que facilitam o dia a dia.

@@ -10,19 +10,19 @@ A estrutura do diretório é dividida em "arquivos" temáticos, unindo a organiz
 
 ## 🗺️ Índice do Cofre
 
-### 🛡️ [Skyloft-Archives (Cibersegurança)]
-Arquivo dedicado a anotações de Cybersegurança, Pentest, Blue Team e Red Team, Assim como anotações gerais da área.
-*   **Mapas Mentais:** Diagramas visuais de processos
-*   **Laboratórios & Logs:** Relatórios práticos e Write-ups de máquinas e desafios.
-*   **Scripts:** Ferramentas de automação e *one-liners* que achei úteis.
+### 🛡️ [Skyloft-Archives (Cibersegurança)](./Skyloft-Archives%20(Cibersegurança))
+Arquivo dedicado a anotações de Cibersegurança, Pentest, Blue Team, Red Team e laboratórios práticos.
+* **Mapas Mentais:** Diagramas visuais de processos, arquitetura de rede e ameaças.
+* **Laboratórios & Logs:** Relatórios práticos (*write-ups*) de salas do TryHackMe e máquinas.
+* **Scripts & Toolkit:** Ferramentas de automação e *one-liners* que facilitam o dia a dia.
 
-### 🛸 [Metaverse-Nav-Log (Linux & SO)]
-Tudo sobre administração de sistemas operacionais, hardening e linha de comando.
-*   Comandos e códigos básicos e avançados para utilizar no dia a dia.
-*   Gerenciamento de permissões e exploração de sistemas.
-*   Testes (Qualquer tipo).
+### 🛸 [Metaverse-Nav-Log (Linux & SO)](./Metaverse-Nav-Log)
+Diário de navegação focado em administração de sistemas Linux (ambiente de testes em Fedora VM), Shell/Bash e manipulação de SO.
+* **Comandos & Diagnóstico:** Guias de navegação, rede, filtros (`grep`/`find`), metacaracteres e compactação (`tar`/`gzip`).
+* **Shell & Gerenciamento de Processos:** Variáveis locais/globais, arquivos de configuração (`.bashrc`), `alias` e trio de controle (`Ctrl+Z`, `bg`, `fg`, `kill`).
+* **Mapas Mentais Visuais:** Guias em PDF para consulta rápida no dia a dia.
 
-### 👩‍🎨 [The-Paintress-Canvas (PowerShell & Windows)]
+### 👩‍🎨 [The-Paintress-Canvas (PowerShell & Windows)] *(Em construção 🏗️)*
 Anotações focadas no ecossistema Microsoft, Windows e PowerShell/CMD
 *   Anotações sobre códigos e comandos básicos e avançados que utilizo.
 *   Recomendações de Aplicativos da Microsoft.

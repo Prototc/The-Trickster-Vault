@@ -36,9 +36,9 @@ Módulo introdutório focado nos fundamentos da área, mentalidade hacker, difer
 
 | Sala / Room | Foco Principal | Status | Documentação |
 | :--- | :--- | :---: | :---: |
-| **Offensive Security Intro** | Reconhecimento Web (`dirb`), Enumeração & Controle de Acesso | 🟢 Concluído | [Offensive Security Intro PDF](./TryHackMe-Great-Plateau/01-Start-Cyber-Security-Journey/1-Offensive-Security-Intro.pdf) |
-| **Defensive Security Intro** | Triagem de SOC, Contenção de Brute Force & Relatório de Incidentes | 🟢 Concluído | [Defensive Security Intro PDF](./TryHackMe-Great-Plateau/01-Start-Cyber-Security-Journey/2-Defensive-Security-Intro.pdf) |
-| **Search Skills** | OSINT, Shodan, VirusTotal, Pesquisa de CVEs & PoCs no GitHub | 🟢 Concluído | [Search Skills PDF](./TryHackMe-Great-Plateau/01-Start-Cyber-Security-Journey/3-Search-Skills.pdf) |
+| **Offensive Security Intro** | Reconhecimento Web (`dirb`), Enumeração & Controle de Acesso | 🟢 Concluído | [Offensive Security Intro PDF](./TryHackMe/01-Start-Cyber-Security-Journey/1-Offensive-Security-Intro.pdf) |
+| **Defensive Security Intro** | Triagem de SOC, Contenção de Brute Force & Relatório de Incidentes | 🟢 Concluído | [Defensive Security Intro PDF](./TryHackMe/01-Start-Cyber-Security-Journey/2-Defensive-Security-Intro.pdf) |
+| **Search Skills** | OSINT, Shodan, VirusTotal, Pesquisa de CVEs & PoCs no GitHub | 🟢 Concluído | [Search Skills PDF](./TryHackMe/01-Start-Cyber-Security-Journey/3-Search-Skills.pdf) |
 
 #### 🎯 Objetivos de Aprendizado
 

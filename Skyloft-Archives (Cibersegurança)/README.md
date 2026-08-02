@@ -51,9 +51,27 @@ Módulo introdutório focado nos fundamentos da área, mentalidade hacker, difer
 
 ---
 
-## 🎯 Radar de Estudos
+### 🐧 Módulo 02 | Linux Fundamentals
 
-O que está no horizonte da jornada:
+> *"A true warrior knows their OS inside and out."* 🐧
+
+Módulo focado no funcionamento básico do Linux, comandos essenciais do terminal, navegação e operadores de redirecionamento.
+
+#### 📜 Dungeons & Salas do Módulo
+
+| Sala / Room | Foco Principal | Status | Documentação |
+| :--- | :--- | :---: | :---: |
+| **Linux Fundamentals (Pt 1)** | Comandos Básicos (`ls`, `find`, `echo`), Redirecionamento (`>` vs `>>`) & Validação Técnica | 🟢 Concluído | [Linux Fundamentals Pt1](./TryHackMe/02-Linux-Fundamentals/1-Linux%20Fundamentals%20(Pt1).pdf) |
+
+#### 🎯 Objetivos de Aprendizado
+
+- [x] Entender a estrutura básica, navegação e funcionamento de dispositivos no Linux
+- [x] Executar comandos fundamentais do terminal (`ls`, `find`, `echo`, `pwd`)
+- [x] Validar na prática a diferença entre sobrescrever (`>`) e anexar (`>>`) arquivos no terminal
+
+---
+
+## 🎯 Radar de Estudos
 
 - [x] Iniciar os treinamentos práticos no TryHackMe
 - [x] Criar estrutura de documentação com PoC / Prints no GitHub

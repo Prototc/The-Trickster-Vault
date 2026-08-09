@@ -1,10 +1,13 @@
 # 🃏 The Trickster Vault
 
-Bem-vindo ao meu repositório central. 
+**Bem-vindo ao meu repositório central.**
 
-Este espaço funciona como o meu diário de bordo na área de Tecnologia e Segurança da Informação. A maior parte provavelmente em um mapa mental, mas caso eu fique um pouco mais inteligente eu adiciono outras coisas.
+**Este espaço funciona como o meu diário de bordo na área de Tecnologia e Segurança da Informação. A maior parte provavelmente em um mapa mental, mas caso eu fique um pouco mais inteligente eu adiciono outras coisas.**
 
-A estrutura do diretório é dividida em "arquivos" temáticos, unindo a organização que eu acho fácil de entender e alguns dos meus jogos favoritos
+**A estrutura do diretório é dividida em "arquivos" temáticos, unindo a organização que eu acho fácil de entender e alguns dos meus jogos favoritos**
+
+<p align="center">
+<img width="60%" height="600" alt="Image 2" src="https://github.com/user-attachments/assets/8def5752-7c30-4ff4-827f-52b21f630792" /><p align="center">
 
 ---
 

@@ -27,10 +27,10 @@ Diário de navegação focado em administração de sistemas Linux (ambiente de 
 
 ### 🩸 [The-Hunters-Dream (APIs, Automação & Low-Code)](./The-Hunters-Dream%20(APIs%2C%20Automa%C3%A7%C3%A3o%20%26%20Low-Code))
 O santuário de integração e oficina central. Pasta dedicada ao fluxo de dados entre sistemas, inspeção de requisições, orquestração visual de automações e persistência em bancos de dados.
-* **APIs REST & JSON (Formless Oedon):** Conceitos de comunicação, estrutura de payloads, verbos HTTP, status codes e padrões REST/RESTful.
-* **Inspeção & Testes (Monocle of the Hunter):** Validação de rotas, envio de headers/params/body e documentação técnica utilizando Postman e Insomnia.
-* **Automação & Low-Code (The Clocktower Mechanism):** Webhooks, gatilhos em tempo real e criação de fluxos no N8N.
-* **Persistência de Dados (The Chalice Dungeons):** Consultas relacionais e não-relacionais (PostgreSQL & MongoDB).
+* **APIs REST & JSON:** Conceitos de comunicação, estrutura de payloads, verbos HTTP, status codes e padrões REST/RESTful.
+* **Inspeção & Testes:** Validação de rotas, envio de headers/params/body e documentação técnica utilizando Postman e Insomnia.
+* **Automação & Low-Code:** Webhooks, gatilhos em tempo real e criação de fluxos no N8N.
+* **Persistência de Dados:** Consultas relacionais e não-relacionais (PostgreSQL & MongoDB).
 * **Compilados em PDF:** Guias consolidados e mapas mentais reunidos em arquivos únicos para rápida consulta.
 
 ### 👩‍🎨 [The-Paintress-Canvas (PowerShell & Windows)] *(Em construção 🏗️)*

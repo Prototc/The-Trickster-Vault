@@ -1,4 +1,4 @@
-# 🩸 The-Hunters-Dream (APIs, Automação & Low-Code)
+# 🐺🩸 The-Hunters-Dream (APIs, Automação & Low-Code)
 
 > *"Just go out and kill a few beasts. It's for your own good. It's just what hunters do..."* — **Gehrman, the First Hunter**
 
@@ -35,4 +35,4 @@ Mapeamento dos tópicos de integração, automação e banco de dados para o eco
 
 ---
 
-*"Se o código compilar de primeira eu fiz algo errado🩸"*
+*"Se o código compilar de primeira eu fiz algo errado🩸🐺"*

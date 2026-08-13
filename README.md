@@ -25,7 +25,7 @@ Diário de navegação focado em administração de sistemas Linux (ambiente de 
 * **Shell & Gerenciamento de Processos:** Variáveis locais/globais, arquivos de configuração (`.bashrc`), `alias` e trio de controle (`Ctrl+Z`, `bg`, `fg`, `kill`).
 * **Mapas Mentais Visuais:** Guias em PDF para consulta rápida no dia a dia.
 
-### 🩸 [The-Hunters-Dream (APIs, Automação & Low-Code)](./The-Hunters-Dream%20(APIs%2C%20Automa%C3%A7%C3%A3o%20%26%20Low-Code))
+### 🐺🩸 [The-Hunters-Dream (APIs, Automação & Low-Code)](./The-Hunters-Dream%20(APIs%2C%20Automa%C3%A7%C3%A3o%20%26%20Low-Code))
 O santuário de integração e oficina central. Pasta dedicada ao fluxo de dados entre sistemas, inspeção de requisições, orquestração visual de automações e persistência em bancos de dados.
 * **APIs REST & JSON:** Conceitos de comunicação, estrutura de payloads, verbos HTTP, status codes e padrões REST/RESTful.
 * **Inspeção & Testes:** Validação de rotas, envio de headers/params/body e documentação técnica utilizando Postman e Insomnia.
